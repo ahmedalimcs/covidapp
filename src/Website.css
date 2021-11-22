@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nop{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 0px;
+    margin: 220px;
+    text-align: center;
+    font-size: 12px;
+  
+   
+}
+
+.h1{
+    font-size: 68px;
+    color: lemonchiffon;
+}
+
+.btn1{
+    position: absolute;
+    top: 1px;
+    margin: 370px;
+    margin-left: 3px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 08%;
+    transition: 2s;
+}
+
+.btn1:hover{
+    color: white;
+    background-color: purple;
+}
+
+
+    
+    
+
+
+.pera{
+    font-size: 18px;
+    color: blanchedalmond;
+    opacity: 0.3;
+}
+
+/* .div{
+    border: 1px;
+    border-radius: 5px;
+} */
+
+.p:hover{
+    color: green;
+}
+
+.h2:hover{
+    color: green;
+}
+.h3:hover{
+    color: green;
+}
+.h4:hover{
+    color: green;
+}
+.h5:hover{
+    color: green;
+}
+.h6:hover{
+    color: green;
+}
+
+.h7:hover{
+    color: green;
+}
